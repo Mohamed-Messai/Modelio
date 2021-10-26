@@ -1,8 +1,6 @@
 # Prise en main de Modélio : Introduction
 <!-- => retour à la ligne, 2 espaces .... -->
 
- 
-*[UML](https://fr.wikipedia.org/wiki/UML_%28informatique%29) (Unified Modeling Language ou langage de modélisation unifié) est un langage de modélisation graphique à base de pictogrammes conçu pour fournir une méthode normalisée pour visualiser la conception d'un système. Il est couramment utilisé en développement logiciel et en conception orientée objet.* (Extrait [Wikipedia](https://fr.wikipedia.org/wiki/UML_%28informatique%29))  
 
 Le site [uml.org](http://www.uml.org/) propose de nombreuses ressources autour d'UML dont 
 les spécifications officielles qui sont disponibles à partir de [http://www.omg.org/spec/UML/](http://www.omg.org/spec/UML/)
